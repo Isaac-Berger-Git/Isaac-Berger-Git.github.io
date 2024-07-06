@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-size: 20px;">26 Thorndyke Street, Belfast</span>  <br>
-<span style="font-size: 20px;">N7 6QP</span> 
+<span style="font-size: 20px;">BT5 4QB</span> 
 
 ### [zacberger11@gmail.com](mailto:zacberger11@gmail.com)
 ----------------------------------------------------------------------------------------------
