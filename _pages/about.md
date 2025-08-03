@@ -18,7 +18,7 @@ redirect_from:
 
 <br>
 
-### <span style="color: steelblue;">Undergraduate Dissertation - International Tax Avoidance and National Public Concern: A Novel Force within the OECD Project on Base Erosion and Profit Shifting.</span> <a href="http://Isaac-Berger-Git.github.io/files/Dissertation .pdf" class="button">[→]</a><span style="color: #808080;">, Data <a href="https://github.com/Isaac-Berger-Git/Isaac-Berger-Git.github.io/blob/master/files/Diss%20Data.xlsx">[→]</a> </span> 
+### <span style="color: steelblue;">Undergraduate Dissertation - International Tax Avoidance and National Public Concern: A Novel Force within the OECD Project on Base Erosion and Profit Shifting.</span> <a href="http://Isaac-Berger-Git.github.io/files/Dissertation.pdf" class="button">[→]</a><span style="color: #808080;">, Data <a href="https://github.com/Isaac-Berger-Git/Isaac-Berger-Git.github.io/blob/master/files/Diss%20Data.xlsx">[→]</a> </span> 
 
 <span style="font-size: 14px;">My thesis offers a twofold contribution to tax avoidance studies. Firstly, public salience is interwoven into the mainstream account of avoidance that prioritises the interaction of large states, low-tax states, multinationals and absent IGOs in the globalised marketplace. Building upon these findings, section two uses original data to evidence how, within OECD BEPS, established societal interests became more influential vis-à-vis multinationals during the wave of saliency from 2012-2016.</span> 
 
