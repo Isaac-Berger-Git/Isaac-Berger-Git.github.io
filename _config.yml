@@ -8,7 +8,7 @@ require: "tzinfo"
 
 # Site Settings
 locale: "en-GB"
-title: "Isaac Berger"
+title: "Isaac (Zac) Berger"
 title_separator: "-"
 name: &name "Isaac Berger"
 description: &description "Hi there! Below are some of the works I completed during my International Relations BSc at the London School of Economics (2020-2023). Included are documents relating to a research project on how students approach and perceive recycling in a new university environment, for which I was funded by the university."
