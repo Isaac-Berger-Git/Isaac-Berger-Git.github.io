@@ -31,8 +31,7 @@ In GB’s green grid, unforeseen weather causes imbalances to materialise in the
 </details>
 
 
-
-
+<br>
 <br>
 
 ---
