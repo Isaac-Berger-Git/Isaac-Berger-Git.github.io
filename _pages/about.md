@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "Isaac Berger "
+title: "Research & Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<span style="font-size: 20px;">26 Thorndyke Street, Belfast</span>  <br>
-<span style="font-size: 20px;">BT5 4QB</span> 
+# Isaac Berger <span style="font-size: 14px; font-weight: normal;">(mostly known as Zac)</span>
+
+<span style="font-size: 20px;">98 Loopland Park, Belfast</span>  <br>
+<span style="font-size: 20px;">BT6 9DZ</span> 
 
 ### [zacberger11@gmail.com](mailto:zacberger11@gmail.com)
 ---
@@ -36,7 +38,6 @@ In GB's green grid, unforseen weather causes imbalances to materialise in the da
 ## Academic Work
 
 > <span style="font-size: 20px;">Below are a selection of works I completed during my International Relations BSc at the London School of Economics (2020-2023). The topic of the Change Makers research was an original proposal which the university chose to fund.</span> 
-
 
 <br>
 
