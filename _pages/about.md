@@ -33,12 +33,11 @@ In GB’s green grid, unforeseen weather causes imbalances to materialise in the
 
 <br>
 <br>
-<br>
 
 ---
 ## Academic Work
 
-> <span style="font-size: 20px;">Below are a selection of works I completed during my International Relations BSc at the London School of Economics (2020-2023). The topic of the Change Makers research was an original proposal which the university chose to fund.</span> 
+> <span style="font-size: 20px;">Below are works I completed during my International Relations BSc at the London School of Economics (2020-2023). The topic of the Change Makers research was an original proposal which the university chose to fund.</span> 
 
 
 ### <span style="color: steelblue;">Undergraduate Dissertation - International Tax Avoidance and National Public Concern: A Novel Force within the OECD Project on Base Erosion and Profit Shifting.</span> <a href="http://Isaac-Berger-Git.github.io/files/Dissertation.pdf" class="button">[→]</a><span style="color: #808080;">, Data <a href="https://github.com/Isaac-Berger-Git/Isaac-Berger-Git.github.io/blob/master/files/Diss%20Data.xlsx">[→]</a> </span> 
