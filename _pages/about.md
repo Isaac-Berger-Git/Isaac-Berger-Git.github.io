@@ -15,7 +15,7 @@ redirect_from:
 ### [zacberger11@gmail.com](mailto:zacberger11@gmail.com)
 ---
 ## Professional Work
-### <span style="color: steelblue;">Network Topology Optimisation – Analysis of a New and Innovative Simulation Technology within Power Transmission.</span> <a href="https://www.neso.energy/document/373681/download" class="button">[→]</a> 
+### <span style="color: steelblue;">Network Topology Optimisation – Analysis of a New and Innovative Simulation Technology within Power Transmission.</span> <a href="https://www.neso.energy/document/373681/download" class="button">[→🔗]</a> 
 
 <span style="font-size: 14px;">An NTO solution is a mathematical solver that locates the best candidate topologies for improving overall power flows in a transmission network. Objectives vary, but in Europe have centred around reducing thermal congestion and voltage violations. NESO commissioned EY to lead a piece of discovery work to assess the state-of-the-art amongst academia, vendors and operators, and generate conclusions for GB’s future strategy. As a lightweight full-time team, we contributed a novel definition of NTO as a nine-step process, identifying factors that must be paired, prioritised, and bear out computational trade-offs.</span> 
 <details>
